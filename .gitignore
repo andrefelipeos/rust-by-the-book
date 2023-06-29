@@ -1,0 +1,4 @@
+target/
+
+# Vi swap files
+*.swp
